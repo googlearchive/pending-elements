@@ -1,0 +1,7 @@
+{
+  "name": "pending-elements",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+  }
+}
