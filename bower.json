@@ -3,5 +3,7 @@
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
+    "paper-collapse": "latest",
+    "core-selector": "polymer/core-selector#~0.5.4"
   }
 }
